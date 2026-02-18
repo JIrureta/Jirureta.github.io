@@ -23,7 +23,7 @@ menu:
           weight: 4
 
 params:
-    description: "This website hosts Jon Irureta Barrena's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Jon Irureta Barrena's research papers, curriculum vitae, and contact information."
     author: Jon Irureta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Jon Irureta
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "I am a first year PhD student at **Ikerlan** and the **University of the Basque Country**. I focus on the challenges of training models over distributed data. My work has focused on Vertical Federated Learning, exploring how to build collaborative models when features are split across different entities. I am currently looking to expand my research into Model Merging and other emerging techniques for integrating knowledge from decentralized systems.\n\n I am fortunate to be supervised by _[Gorka Azkune](https://gazkune.github.io)_ (University of the Basque Country), _[Javier Fernandez-Marques](https://jafermarq.com)_, Jon Imaz and Aizea Lojo (Ikerlan)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
