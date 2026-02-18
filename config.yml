@@ -12,21 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: News
           url: books/
           weight: 5 
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
+        - name: Talks
           url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          weight: 4
 
 params:
     description: "This website hosts Jon Irureta Barrena's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -87,7 +81,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Jon Irureta Barrena"
-      icon: favicon.png
+      icon: flavicon.png
       iconHeight: 24
 
 markup:
