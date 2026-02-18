@@ -34,7 +34,7 @@ params:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: dark
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -62,42 +62,23 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
+            - name: Talks
               url: data/
-            - name: Books
+            - name: News
               url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:jirureta@ikerlan.es
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=Ev3aiKQAAAAJ&hl=es
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/JIrureta
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jon-irureta-barrena-b433901b3/
 
     assets:
         disableScrollBarStyle: true
@@ -105,9 +86,9 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
-      iconHeight: 18
+      text: "Jon Irureta Barrena"
+      icon: favicon.png
+      iconHeight: 24
 
 markup:
     goldmark:
